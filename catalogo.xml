@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+ <producto>
+ <nombre>Camisa de manga corta</nombre>
+ <precio moneda="euros">19.99</precio>
+ <disponible>true</disponible>
+ </producto>
+ <producto>
+ <nombre>Pantalón vaquero</nombre>
+ <precio moneda="dolar">29.99</precio>
+ <disponible>false</disponible>
+ </producto>
+ <producto>
+ <nombre>Zapatos de cuero</nombre>
+ <precio moneda="euros">79.99</precio>
+ <disponible>true</disponible>
+ </producto>
+</catalogo>

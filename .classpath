@@ -6,5 +6,20 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/codemodel.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/dtd-parser.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/istack-commons-runtime.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/istack-commons-tools.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/jaxb-runtime.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/relaxng-datatype.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/rngom.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/stax-ex.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/txw2.jar"/>
+	<classpathentry kind="lib" path="/home/diurno/Escritorio/AD/jaxb-ri-2.3.1/xsom.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<direcciones>
+ <direccion>
+ <tratamiento tipo="Sra."/>
+ <nombre>Patricia</nombre>
+ <apellidos>Marín Díaz</apellidos>
+ <calle numero="3">Avenidad de Portugal</calle>
+ <cp>06001</cp>
+ <poblacion>Badajoz</poblacion>
+ <provincia>Badajoz</provincia>
+ </direccion>
+ <direccion>
+ <tratamiento tipo="Sr."/>
+ <nombre>Pablo</nombre>
+ <apellidos>López</apellidos>
+ <calle numero="13">Real</calle>
+ <cp>10394</cp>
+ <poblacion>Belvis de Monroy</poblacion>
+ <provincia>Caceres</provincia>
+ </direccion>
+</direcciones>
