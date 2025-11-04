@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empresas>
+    <empresa>
+        <nombre>Telefónica</nombre>
+        <valor>4.32</valor>
+    </empresa>
+    <empresa>
+        <nombre>Banco Santander</nombre>
+        <valor>5.65</valor>
+    </empresa>
+    <empresa>
+        <nombre>Banco Sabadell</nombre>
+        <valor>4.45</valor>
+    </empresa>
+    <empresa>
+        <nombre>Caixabank</nombre>
+        <valor>6.76</valor>
+    </empresa>
+</empresas>
