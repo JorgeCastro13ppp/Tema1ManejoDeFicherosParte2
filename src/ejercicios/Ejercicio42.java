@@ -1,5 +1,6 @@
 package ejercicios;
 
+
 /**
  * Ejercicio 42 - Crear fichero XML con JAXB
  * Asignatura: Acceso a Datos (2º DAM)
@@ -16,8 +17,6 @@ package ejercicios;
 public class Ejercicio42 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
 
 }
