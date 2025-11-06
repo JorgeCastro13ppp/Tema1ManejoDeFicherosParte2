@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria cp="10300" lugar="nee" nombre="jorgito">
+    <ListaLibro>
+        <Libro>
+            <titulo>pepe</titulo>
+            <autor>casa</autor>
+            <editorial>aj</editorial>
+            <isbn>132</isbn>
+        </Libro>
+        <Libro>
+            <titulo>pipo</titulo>
+            <autor>fd</autor>
+            <editorial>fdd</editorial>
+            <isbn>4334</isbn>
+        </Libro>
+    </ListaLibro>
+</libreria>

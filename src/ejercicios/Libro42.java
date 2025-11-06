@@ -11,8 +11,15 @@ import com.sun.xml.txw2.annotation.XmlElement;
  *  - @XmlType: define el orden de los elementos hijos en el XML.
  *  - @XmlElement: marca los atributos que se serializarán como nodos XML.
  */
-@XmlType(propOrder = { "titulo", "autor", "editorial", "isbn" })
 
+// La anotación @XmlType le dice a JAXB cómo debe estructurar el contenido interno del XML,
+// es decir, en qué orden deben aparecer los elementos dentro de la etiqueta principal.
+
+ @XmlType(propOrder = { "titulo", "autor", "editorial", "isbn" })
+ 
+// Si no especificas propOrder, JAXB genera los elementos en orden alfabético por defecto, 
+// no en el orden en que los declaras en tu clase.
+ 
 public class Libro42 {
 
 	private String titulo;
@@ -33,6 +40,9 @@ public class Libro42 {
 	}
 	
 	// Getters y setters con anotaciones JAXB
+	// JAXB accede a los valores a través de los objetos públicos getters and setters
+	// En este caso solo debemos añadirlas a los getters porque JAXB usa el getter para pasar Java->XML
+	// y usa setter para pasar de XML a Java
 	@XmlElement
 
 	public String getTitulo() {
