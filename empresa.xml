@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa nie="E12345678" nombre="IberPower">
+    <direccion>
+        <cp>28001</cp>
+        <numero>10</numero>
+        <poblacion>Madrid</poblacion>
+        <via>Avenida de la Energía</via>
+    </direccion>
+    <trabajadores/>
+</empresa>

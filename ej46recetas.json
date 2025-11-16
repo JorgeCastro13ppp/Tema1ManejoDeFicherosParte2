@@ -1,0 +1,70 @@
+{
+    "recetas": [
+        {
+            "nombre": "Gazpacho",
+            "tipo": "Sopa fría",
+            "origen": {
+                "pais": "España",
+                "region": "Andalucía"
+            },
+            "ingredientes": [
+                {
+                    "nombre": "Tomate",
+                    "cantidad": "1 kg"
+                },
+                {
+                    "nombre": "Pimiento verde",
+                    "cantidad": "100 g"
+                },
+                {
+                    "nombre": "Ajo",
+                    "cantidad": "1 diente"
+                }
+            ]
+        },
+        {
+            "nombre": "Vichyssoise",
+            "tipo": "Sopa fría",
+            "origen": {
+                "pais": "Francia",
+                "region": "Vichy"
+            },
+            "ingredientes": [
+                {
+                    "nombre": "Puerro",
+                    "cantidad": "400 g"
+                },
+                {
+                    "nombre": "Patata",
+                    "cantidad": "300 g"
+                },
+                {
+                    "nombre": "Nata líquida",
+                    "cantidad": "200 ml"
+                }
+            ]
+        },
+		{
+            "nombre": "Sopa de ave",
+            "tipo": "Sopa caliente",
+            "origen": {
+                "pais": "España",
+                "region": "varias"
+            },
+            "ingredientes": [
+                {
+                    "nombre": "Caldo de pollo",
+                    "cantidad": "1 l"
+                },
+                {
+                    "nombre": "fideos",
+                    "cantidad": "100 g"
+                },
+                {
+                    "nombre": "Verduras",
+                    "cantidad": "200 g"
+                }
+            ]
+        }
+    ]
+}

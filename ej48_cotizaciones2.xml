@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Empresas>
+    <Empresa>
+        <Nombre>Telefónica</Nombre>
+        <Precio>4.32</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Banco Santander</Nombre>
+        <Precio>4.56</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Banco Sabadell</Nombre>
+        <Precio>1.95</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>CaixaBank</Nombre>
+        <Precio>5.51</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Iberdrola</Nombre>
+        <Precio>13.56</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>BBVA</Nombre>
+        <Precio>9.74</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Dia</Nombre>
+        <Precio>0.013</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>International Airlines Group</Nombre>
+        <Precio>2.47</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Repsol</Nombre>
+        <Precio>11.68</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Inmobiliaria Colonial</Nombre>
+        <Precio>6.35</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Sacyr</Nombre>
+        <Precio>3.19</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Unicaja</Nombre>
+        <Precio>1.17</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Bankinter</Nombre>
+        <Precio>7.89</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Inditex</Nombre>
+        <Precio>52.02</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Merlin Properties</Nombre>
+        <Precio>11.45</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Enagás</Nombre>
+        <Precio>13.53</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>MAPFRE</Nombre>
+        <Precio>2.39</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Ferrovial</Nombre>
+        <Precio>37.96</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Redeia Corporacion SA</Nombre>
+        <Precio>16.91</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Grupo ACS</Nombre>
+        <Precio>41.56</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Fluidra</Nombre>
+        <Precio>22.16</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Grifols</Nombre>
+        <Precio>9.83</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Endesa</Nombre>
+        <Precio>19.38</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Cellnex Telecom</Nombre>
+        <Precio>35.78</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Puig</Nombre>
+        <Precio>19.86</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Prosegur Cash SA</Nombre>
+        <Precio>0.54</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Solaria Energía y Medio Ambiente</Nombre>
+        <Precio>11.70</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Grupo FCC</Nombre>
+        <Precio>13.82</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Naturgy</Nombre>
+        <Precio>22.68</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Amadeus IT Group</Nombre>
+        <Precio>65.12</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Gestamp Automocion</Nombre>
+        <Precio>2.63</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Aena</Nombre>
+        <Precio>197.60</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Corporacion Acciona Energias Renovables SA</Nombre>
+        <Precio>20.38</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Atresmedia</Nombre>
+        <Precio>4.70</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Línea Directa Aseguradora</Nombre>
+        <Precio>1.09</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Indra Sistemas</Nombre>
+        <Precio>16.40</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Ence Energía y Celulosa</Nombre>
+        <Precio>2.93</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Tubacex</Nombre>
+        <Precio>3.07</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Lar Espana Real Estate Socimi SA</Nombre>
+        <Precio>8.12</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Faes Farma</Nombre>
+        <Precio>3.71</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Meliá Hotels International</Nombre>
+        <Precio>6.59</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Grifols</Nombre>
+        <Precio>8.14</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>CEMIG</Nombre>
+        <Precio>1.91</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>ArcelorMittal</Nombre>
+        <Precio>21.48</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Gerdau</Nombre>
+        <Precio>2.98</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Audax Renovables</Nombre>
+        <Precio>1.80</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Almirall</Nombre>
+        <Precio>8.39</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Viscofan</Nombre>
+        <Precio>63.00</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Técnicas Reunidas</Nombre>
+        <Precio>12.31</Precio>
+    </Empresa>
+    <Empresa>
+        <Nombre>Prosegur</Nombre>
+        <Precio>1.85</Precio>
+    </Empresa>
+</Empresas>

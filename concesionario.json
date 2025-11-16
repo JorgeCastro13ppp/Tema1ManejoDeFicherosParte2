@@ -1,0 +1,20 @@
+{
+  "concesionario" : {
+    "coche" : [ {
+      "id" : "1",
+      "marca" : "Renault",
+      "modelo" : "Megane",
+      "precio" : "16000"
+    }, {
+      "id" : "2",
+      "marca" : "Seat",
+      "modelo" : "Toledo",
+      "precio" : "12000"
+    }, {
+      "id" : "3",
+      "marca" : "Suzuki",
+      "modelo" : "Vitara",
+      "precio" : "15000"
+    } ]
+  }
+}

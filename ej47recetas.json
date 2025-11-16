@@ -1,0 +1,11 @@
+{
+  "recetas" : [ {
+    "nombre" : "pan",
+    "tipo" : "entrante",
+    "tiempo" : 20
+  }, {
+    "nombre" : "leche",
+    "tipo" : "bebida",
+    "tiempo" : 110
+  } ]
+}
